@@ -9,7 +9,7 @@
 	url = https://github.com/jbernhard/osu-hydro.git
 [submodule "models/frzout"]
 	path = models/frzout
-	url = https://github.com/Duke-QCD/frzout.git
+	url = https://github.com/j-f-paquet/frzout-duke2020
 [submodule "models/urqmd-afterburner"]
 	path = models/urqmd-afterburner
 	url = https://github.com/jbernhard/urqmd-afterburner.git
